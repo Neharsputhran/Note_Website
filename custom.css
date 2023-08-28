@@ -12,6 +12,25 @@
     padding-bottom: 50px;
 
 }
+nav{
+    z-index:1;
+    position: fixed;
+    background: rgb(234, 122, 94);
+    height: 80px;
+    width: 100%;
+    bottom: 0;
+}
+.logo{
+    font-size: 50px;
+    font-weight: bolder;
+    font-family:cursive;
+    font-style:italic;
+    margin-left: 40px;
+    font-variant: small-caps;
+    color: rgb(19, 57, 21);
+
+    
+}
 .note{
     width: 400px;
     height: 400px;
