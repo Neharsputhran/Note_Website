@@ -14,7 +14,7 @@ To get a local copy up and running follow these simple steps.
 
 ```bash
 git clone https://github.com/your-username/note-website.git
-
+```
 2. Navigate to the project directory
 
 ```bash
